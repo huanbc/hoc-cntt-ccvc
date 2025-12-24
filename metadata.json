@@ -1,0 +1,5 @@
+{
+  "name": "Trung tâm Học tập CNTT",
+  "description": "Một nền tảng tương tác để học các chủ đề công nghệ thông tin từ cơ bản đến nâng cao, được hỗ trợ bởi Gemini. Chọn một chủ đề, chọn một cấp độ và nhận một bài học được cá nhân hóa. Bạn cũng có thể đặt câu hỏi để nhận được giải thích tức thì do AI cung cấp.",
+  "requestFramePermissions": []
+}
